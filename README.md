@@ -11,8 +11,7 @@
 ## Ресурсы:
 ### **Работу выполняли:**
 [Иванов В. А. ](https://github.com/ironosier)
-[Кайсаров М. Г. ](https://github.com/kaysarov)
 ### **Выполненное задание:**
 [Задание](https://github.com/ironosier/IvanovVladislav)
 
-<a href="https://ivanovvlad.github.io">index</a>
+<a href="https://ironosier.github.io/ivanovvlad.github.io/">index</a>
