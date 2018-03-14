@@ -12,6 +12,6 @@
 ### **Работу выполняли:**
 [Иванов В. А. ](https://github.com/ironosier)
 ### **Выполненное задание:**
-[Задание](https://github.com/ironosier/IvanovVladislav)
+[Задание]()
 
 <a href="https://ironosier.github.io/ivanovvlad.github.io/">index</a>
