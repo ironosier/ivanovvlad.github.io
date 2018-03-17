@@ -8,9 +8,9 @@
 * Разработать требуемую UML-диаграмму, разместить в wiki как иллюстрацию к тексту.
 ## Ресурсы:
 ### 
-<a href="https://github.com/ironosier">Личный репозиторий</a>
+<a href="https://github.com/ironosier">Личная страница</a>
 ### 
-<a href="https://github.com/ironosier/ivanovvlad.github.io/wiki/Лабораторная-1.">Лабораторная 1</a>
+<a href="https://github.com/ironosier/ivanovvlad.github.io/wiki/Лабораторная-1.">Задание</a>
 ### 
 <a href="https://github.com/ironosier/ivanovvlad.github.io/wiki">Wiki</a>
 ### 
