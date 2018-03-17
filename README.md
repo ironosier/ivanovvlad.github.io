@@ -14,4 +14,4 @@
 ### 
 <a href="https://github.com/ironosier/ivanovvlad.github.io/wiki">Wiki</a>
 ### 
-<a href="https://ironosier.github.io/ivanovvlad.github.io/index.html">Index</a>
+<a href="https://ironosier.github.io/ivanovvlad.github.io/index.html">index</a>
